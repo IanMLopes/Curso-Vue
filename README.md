@@ -1,2 +1,3 @@
 # Curso-Vue
-![alt text](https://github.com/IanMLopes/Curso-Vue/new/master/image.jpg?raw=true)
+
+<img src="tec-imgs/tela4.png" width="100%" height="50%" >
